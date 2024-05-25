@@ -1,0 +1,22 @@
+# Preprocessing
+nltk
+spacy
+
+# Embedding
+sentence-transformers
+
+# VectorDB
+chromadb
+
+# Chunking
+scikit-learn
+kneed
+
+# LLM
+openai
+
+# Load Env.
+python-dotenv
+
+# Notebook
+jupyter
