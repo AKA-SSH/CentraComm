@@ -1,6 +1,10 @@
 # CentraComm
 
 ## Description
+![reference image](https://i.imgur.com/XlCA2Ej.png)
+
+The above shown image is a crude sample query answered by the CentraComm bot.
+
 CentraComm is a centralized communication tool designed to enhance project execution by resolving technical queries and facilitating efficient communication across cross-functional teams. By leveraging CentraComm, teams can quickly find answers to technical questions, access relevant project documentation, and identify the right individuals with experience in similar tasks. This leads to improved efficiency and better project outcomes.
 
 ## Problem Statement
