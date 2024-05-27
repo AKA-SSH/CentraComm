@@ -1,3 +1,7 @@
+# Data Analytics
+numpy
+pandas
+
 # Preprocessing
 nltk
 spacy
@@ -6,11 +10,13 @@ spacy
 sentence-transformers
 
 # VectorDB
-qdrant-client
+faiss-cpu
 
 # Chunking
-scikit-learn
-kneed
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
 
 # LLM
 openai
