@@ -34,7 +34,7 @@ For PoC on PDF processing: [reference link](https://github.com/AKA-SSH/Text-Summ
 This project is licensed under the MIT License.
 
 ## Contact
-For further assistance or queries, please contact the project maintainers or consult the CentraComm documentation.
+For further queries, please contact the project maintainer: [Akash Singh](https://www.linkedin.com/in/aka-ssh/)
 
 ---
 
